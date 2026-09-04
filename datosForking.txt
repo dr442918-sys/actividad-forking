@@ -7,3 +7,4 @@ Nombre:Univ. David Moises Ramirez
 Carrera: Ingeniería informatica
 Semestre:Sexto
 Mención: Desarrollo de software
+Nombre de la materia: Actualizacion Tecnologica
