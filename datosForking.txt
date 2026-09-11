@@ -3,8 +3,15 @@
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
+<<<<<<< HEAD
 Nombre:Univ. David Moises Ramirez
 Carrera: Ingeniería informatica
 Semestre:Sexto
 Mención: Desarrollo de software
 Nombre de la materia: Actualizacion Tecnologica
+=======
+Nombre:Univ.Ramirez David Moises 
+Carrera: Ingeniería Informatica
+Semestre:Sexto 
+Mención: Desarrollo de Software
+>>>>>>> main
